@@ -1,7 +1,6 @@
 ## Hi, I'm Rocio 🐈
 
-👩‍🎓 Currently studying Computer Engineering at UAI, Chile.<br/>
-✨ Interested in frontend developing.<br/>
+✨ Interested in frontend.<br/>
 📖 Learning more about cybersecurity.<br/>
 ### You can contact me here!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rocio-hernandezan) 
